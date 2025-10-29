@@ -1,4 +1,5 @@
 Power BI Revenue Modeling Dashboard
+
 📊 Project Overview
 
 This dashboard was created as part of a Power BI Workshop (July 2024), where I learned the fundamentals of data visualization, modeling, and storytelling using Microsoft Power BI. The dataset used was a dummy financial dataset provided during the workshop to simulate real-world business scenarios.
